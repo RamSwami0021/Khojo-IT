@@ -5512,6 +5512,10 @@ a.pf-btn i {
 	line-height: 1.4;
 	text-decoration: underline;
 }
+.brand-conetnt img {
+	margin: 0;
+	margin: 0 50px;
+}
 
 .bg-dark .brand-conetnt h2 {
 	color: var(--white);
@@ -5547,7 +5551,7 @@ a.pf-btn i {
 	content: "";
 	height: 40px;
 	width: 40px;
-	background: url(../img/shape/4.png);
+	/* background: url(../img/shape/4.png); */
 	background-repeat: no-repeat;
 	background-position: right center;
 	background-size: contain;
@@ -5556,7 +5560,7 @@ a.pf-btn i {
 }
 
 .brand-style-two-area .brand-conetnt .item::after {
-	background: url(../img/shape/4-dark.png);
+	/* background: url(../img/shape/4-dark.png); */
 	background-repeat: no-repeat;
 	background-position: right center;
 	background-size: contain;
@@ -5569,7 +5573,7 @@ a.pf-btn i {
 	content: "";
 	height: 40px;
 	width: 40px;
-	background: url(../img/shape/4.png);
+	/* background: url(../img/shape/4.png); */
 	background-repeat: no-repeat;
 	background-position: right center;
 	background-size: contain;
