@@ -3871,7 +3871,7 @@ a.btn-round-animation.dark {
 }
 
 .banner-animation-zoom .animation-zoom-banner {
-	width: 100%;
+	width: 50%;
 	background-size: cover;
 	background-position: center;
 	position: absolute;
@@ -7807,7 +7807,7 @@ ul.contact-address > li:first-child {
 
 	.banner-animation-zoom {
 		height: auto;
-		padding-top: 450px;
+		/* padding-top: 450px; */
 	}
 
 	.banner-animation-zoom .animation-zoom-banner {
