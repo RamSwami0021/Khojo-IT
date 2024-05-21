@@ -5474,7 +5474,7 @@ a.pf-btn i {
 	right: 60px;
 }
 
-.fun-fact-circle-lists .fun-fact:last-child .counter .timer {
+.fun-fact-circle-lists  .counter .timer {
 	font-size: 100px;
 	font-weight: 900;
 	background: var(--bg-gradient);
